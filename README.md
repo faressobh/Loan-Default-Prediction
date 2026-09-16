@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[Try the Loan Default Risk Prediction App](https://loan-default-prediction-evfaweqxhtncypfgovam7m.streamlit.app/)
+
+
 # Loan Default Risk Prediction
 
 A machine learning project that predicts whether a borrower is likely to
